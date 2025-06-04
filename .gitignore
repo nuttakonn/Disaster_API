@@ -1,0 +1,23 @@
+# .NET build artifacts
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Mac system files
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Docker stuff
+**/docker-compose.override.yml
+.env
+*.log
+
+# Publish folder (optional)
+publish/
+
+
